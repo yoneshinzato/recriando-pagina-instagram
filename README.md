@@ -1,2 +1,3 @@
 # recriando-pagina-instagram
-Projeto desenvolvido ao longo do curso React Web Developer da Digital Innovation One
+Projeto desenvolvido para o bootcamp React Web Developer da Digital Innovation One.
+Palavras-chave: CSS3, HTML5, Flexbox, Responsividade.
